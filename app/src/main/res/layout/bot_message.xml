@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left|center"
+    android:layout_gravity="left"
+    android:minHeight="50dp"
+    android:maxHeight="500dp"
+    >
+
+<!--    <ImageView-->
+<!--        android:id="@+id/bot_image"-->
+<!--        android:layout_width="37dp"-->
+<!--        android:layout_height="37dp"-->
+<!--        android:layout_marginLeft="8dp"-->
+<!--        android:background="@drawable/circle" />-->
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/bot_image"
+        android:layout_width="37dp"
+        android:layout_height="37dp"
+        android:layout_marginLeft="8dp"
+        android:elevation="10dp"
+        android:src="@drawable/bot"
+        />
+
+    <TextView
+        android:id="@+id/bot_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bot_message_style"
+        android:padding="8dp"
+        android:maxWidth="300dp"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@id/bot_image"
+        android:textSize="15dp"
+        android:elevation="5dp"
+        android:text="Lorem Lorem Lorem Lorem Lorem "
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/bot_time"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignBottom="@+id/bot_message"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toEndOf="@+id/bot_message"
+        android:layout_toRightOf="@id/bot_message"
+        android:gravity="bottom"
+        android:text="11:40"
+        android:textSize="12sp" />
+
+</RelativeLayout>

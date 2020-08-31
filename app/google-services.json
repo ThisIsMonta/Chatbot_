@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "529128748625",
+    "firebase_url": "https://tynassfinalapp-605b3.firebaseio.com",
+    "project_id": "tynassfinalapp-605b3",
+    "storage_bucket": "tynassfinalapp-605b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529128748625:android:6f8cfeacec8a7d62452a70",
+        "android_client_info": {
+          "package_name": "com.example.slider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529128748625-fnh611rr1dsj3lpd6s3kqkuhpfii1ep9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slider",
+            "certificate_hash": "acd31767c7a89e635024ab7b48a9026bb4411988"
+          }
+        },
+        {
+          "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpqdAQMQFrbev-2tgwlVLwJNRUbe2qoQ"
+        },
+        {
+          "current_key": "AIzaSyAd3hzK5gDzKbY-X4C3OleHNJmrCVnVC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529128748625:android:6f3373e71c1c8633452a70",
+        "android_client_info": {
+          "package_name": "com.example.tynassultimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529128748625-uj63ikrb9g8icfs6pgi6uhtr8afndmr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tynassultimate",
+            "certificate_hash": "52d86c1b61c82fb8e8d2513f54010f8964aaa25c"
+          }
+        },
+        {
+          "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpqdAQMQFrbev-2tgwlVLwJNRUbe2qoQ"
+        },
+        {
+          "current_key": "AIzaSyAd3hzK5gDzKbY-X4C3OleHNJmrCVnVC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529128748625:android:9d58d9115977c850452a70",
+        "android_client_info": {
+          "package_name": "com.tynass.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529128748625-4m24fh8ha4na2ek9h14elp9njv9me5r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tynass.chatbot",
+            "certificate_hash": "ae2fddae7f2b1b26253961afb70d3ac8e91e18c4"
+          }
+        },
+        {
+          "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpqdAQMQFrbev-2tgwlVLwJNRUbe2qoQ"
+        },
+        {
+          "current_key": "AIzaSyAd3hzK5gDzKbY-X4C3OleHNJmrCVnVC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529128748625:android:4b7e0228d59c6ac2452a70",
+        "android_client_info": {
+          "package_name": "com.tynass.tynass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529128748625-4bikstbio274nn2n10dcjhaj8ej04bsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tynass.tynass",
+            "certificate_hash": "52d86c1b61c82fb8e8d2513f54010f8964aaa25c"
+          }
+        },
+        {
+          "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpqdAQMQFrbev-2tgwlVLwJNRUbe2qoQ"
+        },
+        {
+          "current_key": "AIzaSyAd3hzK5gDzKbY-X4C3OleHNJmrCVnVC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529128748625-kp8uv1cf1kaen3rp9rnnqnv63uhi76vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
